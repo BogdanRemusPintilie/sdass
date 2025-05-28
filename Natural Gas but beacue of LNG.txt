@@ -1,0 +1,70 @@
+Contract size = 10^4 Metric Million British Thermal Unit (MMBRU'S)
+
+
+1. LNG developer Venture Global (one of the biggest US liquefied natural gas developers) files for US IPO
+
+Why = expected boom in exports under president-elect Donald Trump
+They started a second project: Plaquemines, began producing LNG this month.
+
+Overall the supply will increase. The US EIA said we'll go from 11.4 bn cubic feet a day to 24.4 by end of 2028. That is 114% increase in 4 years.
+
+
+2.
+Europe imported a record 16.5mn tonnes of Russian LNG as of mid-December (last year’s imports of 15.18mn tonnes, 15.21mn tonnes imported in 2022)
+
+Europe previously imported about 40% of its gas from Russia, most of which was through pipelines. Now, gas imports from Russia only account for about 16 per cent of the EU’s gas supplies.
+
+Russian LNG accounted for 20% of the EU’s overall imports of LNG transported via tankers this year, up from 15% last year.
+
+EU governments have agreed to ban transshipments of Russian LNG from Yamal to non-EU countries, a measure which will come into force in March 2025. Zeebrugge (Belgium) is one of the few European points of transshipment for LNG from ice-class tankers used in the high north to regular cargo vessels. they also reduce the dark fleet by asking for paperwork.
+
+Trump has warned that the EU must commit to buying “large scale” amounts of US oil and gas or risk facing tariffs.
+
+3. Trump image
+In the first half of 2024, the US provided around 48 per cent of the bloc’s LNG imports, compared with 16 per cent from Russia.
+We still get a lot of LNG from Russia and why not replace it by American LNG
+
+
+The key problem is that the US has no spare LNG capacity to send to Europe at the moment, (in this case and provided EU wants to avoid tariffs then European countries would have to outbid Asian buyers)
+
+Last month, European Central Bank president Christine Lagarde urged Europe’s political leaders to co-operate with him over tariffs and buy more products made in the US.
+
+4.
+The delivery of new ships outpaces the growth in global LNG production.
+It has become very cheap to rent a LNG vessel
+
+LNG export volumes typically rise around 6 to 8 per cent a year, but this year is likely to see only 1 per cent growth
+
+Traders also did not this year utilise floating storage — keeping laden LNG vessels on the water until prices rise in the run-up to winter — as much as previous years because of the lack of a major price difference between summer and winter prices. This has released more carriers.
+
+5.
+if Russia is unable to supply central European buyers through Ukraine from January 1, then these extra volumes will be crucial for security in the whole of the region
+
+The shipment comes just days before the expiry of a five-year deal allowing the transit of Russian pipeline gas through Ukraine
+
+
+
+
+
+Conclusion: I go long natural gas near term contract (27 Jan25) because Ukraine just bought about 100 million cubic metres worth of liquified natural gas from the US (said 10% will be kept and the rest resold to Greek firms). Then we have the expiry of a five-year deal allowing the transit of Russian pipeline gas through Ukraine to reach Central Europe (currently accounting for 5% of EU's imports) which means that the EU will have to buy gas from somewhere else to meet it's demand. Having said this, the EU is pressured to buy US LNG or face tariffs. Ursula has mentioned buying more US LNG and Lagarde urged European leaders to buy more US product to avoid entering disputes. So EU will buy more US LNG so demand goes up. Moving on to supply, the key problem is that the US has no spare LNG capacity to send to Europe at the moment[!!this is smth I copy pasted, but looking at Venture Global's IPO filing and plans to raise 3 - 4 billions to build plants for producing LNG it makes sense!!]. As a result, the EU would have to outbid Asian buyers. So demand increases by more than the supply so the price goes up. So, I placed a limit order at a marginally lower price than the one on the market just to get that better placing. Quantity of 1.
+
+Result: +3.7%
+
+
+Info:
+LNG is derived from natural gas. The cost of producing LNG involves natural gas procurement, liquefaction, and transportation.
+Just to know the contract is what you trade. The contract is made of 10^4 MMBTtus. 
+The price you see is the price of one MMBtu.
+
+
+
+
+
+More reasons to go long:
+6. About 47 per cent of US households heat their homes with gas, while 40 per cent use electricity, according to the US Census. The jump in fuel prices comes as eastern and central parts of the country brace for an “Arctic outbreak” that is set to bring what the National Weather Service has warned will probably be “the coldest air of the season to date and dangerous wind chills”. Arctic cold over Texas shale basins could disrupt supplies just as calm weather curtailed wind generation. That could trigger a rise in natural gas prices of “over a dollar or more”, he said. Winter storms have been behind the largest disruptions to gas supply in recent years. The EIA found the deadly winter storms Uri in 2021 and Elliot in 2022 drove declines in monthly average natural gas production of 3bn-7bn cubic feet a day.
+
+7. President Joe Biden announced a ban on new offshore oil and gas drilling along most of the US coastline
+
+8. The EU is burning through its natural gas reserves at the fastest rate since the beginning of the war when gas supplies were cut by Russia. The EU’s storage levels are now at 75%, marginally above the average of the previous 10 years. Storage levels were close to 90% as of mid-December last year. Traders are already trading gas for delivery next summer at a higher price than for delivery in the winter that follows, a sign of the increasingly steep cost of replenishing stockpiles. That's cause EU countries need to fill their storage to 90 per cent of capacity by the start of November under the European Commission’s mandatory refilling target, although some countries have lower targets.
+
+9. Qatar has threatened to stop its LNG shipments if member states strictly enforce new legislation that will penalise companies which fail to meet set criteria on carbon emissions, human and labour rights. Quatar is the 3rd largest supplier of LNG to EU.

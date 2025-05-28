@@ -1,0 +1,7 @@
+1) 48 * 11 = 4(4+8)8 -> 528 SIMPLER EXAMPLE 23 * 11 = 253
+
+2) 55 * 55 = (5*6)25 = 3025 (is like these numbers squared 15, 25, 35, 45, 55, 65, 75, 85, 95)
+
+3) 17 * 13 = (1*2)21 = 221 (same first digit and second digits sum up to 10)
+
+4) 85 * 95 = so u have -15 (100 - 85) and -5 (100 - 95) AND 85 - 5 = 80 same as 95 - 15 = 80 either way u get to 80 but like subtract those initial differences from 100 that way like one nr takes the other nr's difference so you purposefully get to the same number in this case 80. Then do the product of the differences -5 * -15 = 75. So final answer is (80)(75). If product is >100 you add 1 to 80. (80)(110) becomes 8110.
